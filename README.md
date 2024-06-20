@@ -7,4 +7,6 @@ Generalnie reszte kodu mam w PicList.vue. W App.vue mam właściwie tylko to co 
 
 Na githubie nie ma foleru node_modules bo był za duży.
 
+
+
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FvZTFkN2JpaHF5ZDJ2ZzR5Z2g0MXU4enB4OWRlZTJieWdvcjl2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiJEGxbplHfT5zkCDJ/giphy.gif)
